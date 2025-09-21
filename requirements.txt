@@ -1,0 +1,25 @@
+# Core libraries
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# For dynamic websites (JavaScript-heavy pages)
+selenium==4.25.0
+
+# Advanced scraping framework
+scrapy==2.11.2
+
+# For handling data storage & export
+pandas==2.2.3
+openpyxl==3.1.5
+
+# For handling JSON and structured data
+orjson==3.10.7
+
+# Optional: for proxy rotation & user agents
+fake-useragent==1.5.1
+requests-html==0.10.0
+
+# Optional: for rate limiting
+ratelimit==2.2.1
+tenacity==8.5.0
