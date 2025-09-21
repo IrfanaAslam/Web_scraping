@@ -83,4 +83,6 @@ Have an idea for a new scraper? Feel free to fork the repo, add your project, an
 👩‍💻 Author
 
 Irfana Aslam
+for Queries and projects colleborate at: 
+irfanaaslam69@gmail.com
 📍 Passionate about data extraction, automation, and AI-driven insights.
